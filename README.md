@@ -1,6 +1,6 @@
 # Emotion Slider for Feedbacks
 
-Emotion SLider for taking feedbacks in a unique way.
+Emotion Slider for taking feedbacks in a unique way.
 
 ## Preview
 
